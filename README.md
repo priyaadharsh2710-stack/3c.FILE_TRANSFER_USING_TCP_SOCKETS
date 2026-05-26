@@ -90,8 +90,11 @@ while True:
 s.close()
 ```
 ## OUPUT
-<img width="855" height="330" alt="Screenshot 2026-05-26 162133" src="https://github.com/user-attachments/assets/2c8ecf24-cc4e-413a-b928-dd05f4ae7358" />
-<img width="791" height="252" alt="Screenshot 2026-05-26 162140" src="https://github.com/user-attachments/assets/22273da4-fb08-4ad6-8c43-eaaa15dd8910" />
+<img width="867" height="225" alt="Screenshot 2026-05-26 163602" src="https://github.com/user-attachments/assets/84094346-2ea5-4bf2-b67c-30a7491927db" />
+
+<img width="895" height="245" alt="image" src="https://github.com/user-attachments/assets/c7b0118c-eee8-44cf-8e51-36a640fd5b8c" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6a78532f-8815-4c46-ad3f-310614d5d9d4" />
 
 ## RESULT
 Thus, the python program for creating File Transfer using TCP Sockets Links was 
